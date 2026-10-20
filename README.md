@@ -23,9 +23,23 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Java, Python, Bash, Linux, Kubernetes**
 
-- 📫 How to reach me **denis.huelin@gmail.com**
+- 📫 How to reach me **denis@huelin.dev**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/denishuelin/](https://www.linkedin.com/in/denishuelin/)
+
+<h3 align="left">Projects:</h3>
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🏎️ [f1-prediction-platform](https://github.com/dhuelin/f1-prediction-platform) | Social Formula 1 prediction leagues: predict the top 10, place bonus bets and follow the race live with friends | Java 21, Spring Boot, React, React Native, PostgreSQL, Redis, RabbitMQ |
+| 🏁 [pitwall-launch](https://github.com/dhuelin/pitwall-launch) | Launch page for Pitwall, the race prediction app — live at [pitwall.huelin.dev](https://pitwall.huelin.dev) | Astro, Node.js |
+| 📺 [watch-guru](https://github.com/dhuelin/watch-guru) | Tracks the films and series you've watched, where you left off and what to watch next | Spring Boot, SwiftUI, Jetpack Compose |
+| 💬 [quotes-journal](https://github.com/dhuelin/quotes-journal) | Collect your friends' funniest quotes all year, then unlock them with a quiz and stats on 1 January — live at [quotes.huelin.dev](https://quotes.huelin.dev) | Cloudflare Workers, Flutter |
+| 🧠 [lil-assistant](https://github.com/dhuelin/lil-assistant) | An AI agent on a Raspberry Pi that sorts, tags and links notes in an Obsidian vault | Python, Claude API |
+| 🏠 [homelab](https://github.com/dhuelin/homelab) | Docker Compose setup for my home server's media stack | Docker, Linux |
+
+
+🎓 Coursework from my studies at HSLU: [hslu-ios-app](https://github.com/dhuelin/hslu-ios-app) · [data-science-basics-hslu](https://github.com/dhuelin/data-science-basics-hslu) · [AISO-HSLU](https://github.com/dhuelin/AISO-HSLU) · [WEBT-HSLU](https://github.com/dhuelin/WEBT-HSLU)
 
 
 <h3 align="left">Languages and Tools:</h3>
